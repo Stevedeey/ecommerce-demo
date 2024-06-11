@@ -1,0 +1,10 @@
+
+\
+java:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8Õü€Â€2
+~
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(äÄÏÿ8Øü€Â€2
+W
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8Úü€Â€2
+L	java:S106"+Replace this use of System.out by a logger.(ø‡“åøÿÿÿÿ8“„´Ê€2
+u
+java:S1989#"SHandle the following exception that could be thrown by "sendRedirect": IOException.(â¡Çýøÿÿÿÿ8–„´Ê€2
